@@ -8,7 +8,7 @@ namespace Shared.Engine
     /// </summary>
     public static class FFmpeg
     {
-        private const string baseDownloadUrl = "https://github.com/lampac-talks/lampac/releases/download/ffmpeg";
+        private const string baseDownloadUrl = "https://github.com/lampa32/lampac/releases/download/ffmpeg";
 
         #region InitializationAsync
         static bool disableInstall = false;
