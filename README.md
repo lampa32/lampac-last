@@ -34,7 +34,7 @@
 спасибо @nikk, @Denis
 
 ```bash
-curl -L -k -s https://lampac.sh | bash
+curl -L -k -s https://raw.githubusercontent.com/lampa32/lampac-last/main/install.sh | bash
 ```
 
 * Минимальные требования: 1 CPU, 1GB RAM, 2GB HDD
