@@ -21,7 +21,7 @@ namespace Shared.PlaywrightCore
 
     public class PlaywrightBase
     {
-        protected const string baseDownloadUrl = "https://github.com/lampac-talks/lampac/releases/download/browsers";
+        protected const string baseDownloadUrl = "https://github.com/lampa32/lampac/releases/download/browsers";
 
         static DateTime _nextClearDb = default;
 
